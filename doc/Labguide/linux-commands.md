@@ -27,4 +27,4 @@
 **`CTRL + x`**
 
 ### 6. Show files 
-**`ls -l`**  
+**`ls -la`**  
