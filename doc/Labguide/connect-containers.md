@@ -7,7 +7,7 @@
 
 ## Tasks
 ### 1. Change to the current lab directory
-**`cd 04`**  
+**`cd LAB_NUMBER`**  
 
 ### 2. Create a new docker network
 **`docker network create grafana`**  

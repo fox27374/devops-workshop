@@ -2,14 +2,14 @@
 ## 
 | Command | Description |
 | --- | --- |
-| docker compose | change directory |
+| docker compose | docker but declarative |
 | nano | modify textbased files |
 | ls | list files |
 ---
 
 ## Tasks
-### 1. Change to the lab directory
-**`cd lab`**  
+### 1. Change to the current lab directory
+**`cd LAB_NUMBER`** 
 
 ### 2. Inspect the compose.yml file
 **`nano compose.yml`**  
