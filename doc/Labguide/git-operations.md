@@ -32,7 +32,7 @@
 **`docker logs -f CONTAINER_NAME`**  
 **`nano compose.yml`**  
 
-### 8. Add an .env file and add the missin variable
+### 8. Add an .env file and add the missing variable
 **`nano .env`**  
 
 ### 9. Start the container again and check is its running
